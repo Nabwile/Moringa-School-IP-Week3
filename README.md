@@ -8,11 +8,17 @@ Moringa-School_IP-Week3_Colleta_Khaemba_Python_Notebook
 
 ## Project setup instructions
 To start using this project use google colab
+
 Download libraries
+
 Load datasets
+
 Explore datasets
+
 Merge datasets
+
 Clean datasets
+
 Analyze dataset 
 
 
